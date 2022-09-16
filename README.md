@@ -1,1 +1,4 @@
-# ti-m-sql-v-o-web
+#SQL MAP
+
+# TIÊM SQL VÀO WEB (HACKER) SQL BY THANHSANG 
+
